@@ -89,7 +89,7 @@ Please do this before you put everything back together.
 
 I've had a coax failure before, so those continuity tests are really important. And if you don't have a solid frame ground, you need to fix that before doing an SWR test. 
 
-TODO PICs of multiple testing tools
+<img src="meter.png" width=200px/> <img src="vna.png" width=300px/> <img src="swr.png" width=350px/>
 
 ## Step 8 - Reinstall the trim.
 
