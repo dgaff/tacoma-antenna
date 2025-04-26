@@ -1,5 +1,5 @@
 # Introduction
-This is a quick explanation for how to install a HAM radio (or CB radio) antenna on a 2017 Toyota Tacoma. I originally had my HAM radio antenna installed on a lip mount on the driver side door (see [CP-5M Comet Universal RS-730 Lip Mount](https://www.amazon.com/dp/B0DF981DRJ)). I decided to move it to the back of the vehicle to reduce the radiation exposure inside the cab. My radio puts out 40 watts on the 2 m band.
+This is a quick explanation for how to install a HAM (or CB) radio antenna on a 2017 Toyota Tacoma. I originally had my HAM radio antenna installed on a lip mount on the driver side door (see [CP-5M Comet Universal RS-730 Lip Mount](https://www.amazon.com/dp/B0DF981DRJ)). I decided to move it to the back of the vehicle to reduce the radiation exposure inside the cab. My radio puts out 40 watts on the 2 m band.
 
 TODO pic of completed installation
 
@@ -7,6 +7,8 @@ TODO pic of completed installation
 * Toyota [antenna tailgate mount](https://www.amazon.com/dp/B0CQSXMWGP/ref=pe_386300_440135490_TE_simp_item_imag)
 * Antenna for your application. I'm using TODO [Comet XXX]() for my HAM radio, which works on the 2 m and 70 cm bands.
 * Antenna mount and cable. I'm using the NMO mount and attached cable that came with the Coment lip mount listed above, since that's what I had already.
+* A couple 6mm x 1.0 x 20mm bolts
+* A homemade ground strap
 
 # Steps
 First off, the routing of this cable requires that you don't have a plug on one end of your coax. The UHF plug (PL-259) on the Comet lip mount unscrews, so I just removed the connector in order to thread the cable through the truck. If you're starting with coax cable that has no connectors, that will also work, of course.
@@ -16,7 +18,7 @@ TODO PIC of Comet connector
 The cable will be routed behind the rear brake light assembly, through the upper frame of the truck bed, into the rear cab vent, behind the rear seat storage compartments, and then under the rear cargo mat to my radio body, which is located under the driver side seat. Note that I put the antenna on the passenger side of the tailgate. My truck's bed step is on the driver side, and that's the side I use to climb into the bed. So I didn't want an antenna there.
 
 ## Step 1 - Remove the read tail light assembly.
-Unscrew the two 10 mm bolts circled in the picture. My trunk has 100,000 miles on it, and the bottom bolt ended up snapping the plastic that was holding the retainer on the tail light assembly. Boo! (I epoxied it back together.) So unscrew cautioniously with a socket wrench and not an impact driver. When the bolts are out, pull the top of the tail light towards you, and then pull the bottom away from the truck. These are just pressed in retainers.
+Unscrew the two 10 mm bolts circled in the picture. Go slow with this. My trunk has 100,000 miles on it, and the bottom bolt ended up snapping the plastic that was holding the retainer on the tail light assembly. Boo! (I epoxied it back together.) So, unscrew cautiously with a socket wrench and not an impact driver. When the bolts are out, pull the top of the tail light towards you, and then pull the bottom away from the truck. These are just pressed in retainers.
 
 TODO PIC of tail light removal
 
@@ -72,7 +74,7 @@ TODO PIC of cable rounting under the seat
 
 ## Step 6 - Ground strap.
 
-The mounts I purchased are powder coated and thus have no exposed metal to provide a good frame ground. To fix this, I made a ground strap wire that screws in the base of the NMO mount and then attaches to one of the bolts on the antenna mount bracket. I also replaced the factory bolt with an uncoated 6mm x 1.00 x 20mm bolt. This ensured conductivity with the ground strap and the bolt.
+The mounts I purchased are powder coated and thus have no exposed metal to provide a good frame ground. To fix this, I made a ground strap wire that screws in the base of the NMO mount and then attaches to one of the bolts on the antenna mount bracket. I also replaced the factory bolt with an uncoated 6mm bolt. This ensured conductivity with the ground strap and the bolt.
 
 TODO PIC of ground strap
 
