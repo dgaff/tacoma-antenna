@@ -46,7 +46,7 @@ Next, you may have to drill out the small hole that goes into the bed channel. I
 
 ![](IMG_0763.jpeg)
 
-On the other end of the channel, pull out the little rubber plug shown in the picture below. This will give you access to the other end of the channel, and your cable is going to come out here.
+On the other end of the channel, pull out the little rubber plug shown in the picture below. This will give you access to where the cable will come out.
 
 ![](IMG_0762.jpeg)
 
