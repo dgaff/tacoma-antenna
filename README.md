@@ -24,7 +24,7 @@ Unscrew the two 10 mm bolts circled in the picture. Go slow with this. My trunk 
 
 ## Step 2 - Install the antenna mounting bracket.
 
-The mounts I purchased attach to the two frame bolts shown in the picture. I had to bend them slightly so that they would clear the tailgate when it opens and closes, but otherwise they are an excellent fit.
+The mounts I purchased attach to the two bed bolts shown in the picture. I had to bend the mount slightly so that it would clear the tailgate when it opens and closes, but otherwise this antenna mount is an excellent fit.
 
 As you can see in the picture, the second fastener isn't a bolt anymore. That's because I broke the head off of that bolt getting it out. I had to drill it out, and all I had on hand was a 6 mm allen head screw. I suggest you soak those bolts in WD-40 before you try to unscrew them. You will also need to drill out the hole in the antenna mounting bracket to fit the diameter of your antenna mount.
 
